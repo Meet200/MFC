@@ -1,0 +1,2 @@
+D:\MFC\board_event\Debug\board_event.exe
+D:\MFC\board_event\Debug\board_event.pdb
