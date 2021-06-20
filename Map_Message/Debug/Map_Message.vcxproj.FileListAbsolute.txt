@@ -1,0 +1,2 @@
+D:\MFC\Map_Message\Debug\Map_Message.exe
+D:\MFC\Map_Message\Debug\Map_Message.pdb

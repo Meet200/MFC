@@ -1,0 +1,128 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+ID_MENU1 MENU
+BEGIN
+    POPUP "Menu", HELP
+    BEGIN
+        MENUITEM "&Submenu-1-1\tCtrl+R",        ID_MENU_SUBMENU, HELP
+        MENUITEM "submeni-1-2",                 ID_MENU_SUBMENI40016
+    END
+    POPUP "Edit"
+    BEGIN
+        POPUP "Edit file"
+        BEGIN
+            MENUITEM "Edit word file",              ID_EDITFILE_EDITWORDFILE
+            MENUITEM "Edit .cpp file",              ID_EDITFILE_EDIT
+            MENUITEM "Edit custome file",           0
+        END
+        MENUITEM "Change name",                 ID_EDIT_CHANGENAME
+        MENUITEM "change color",                0
+    END
+    POPUP "View"
+    BEGIN
+        POPUP "file view"
+        BEGIN
+            MENUITEM "xml view",                    ID_FILEVIEW_XMLVIEW
+            POPUP "code view"
+            BEGIN
+                MENUITEM "cpp code",                    ID_CODEVIEW_CPPCODE
+                MENUITEM "python code",                 ID_CODEVIEW_PYTHONCODE
+                MENUITEM "java code",                   ID_CODEVIEW_JAVACODE
+            END
+        END
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "C:\\Users\\ADMIN\\Desktop\\img.PNG"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS
+BEGIN
+    "R",            ID_MENU_SUBMENU,        VIRTKEY, CONTROL, NOINVERT
+    "D",            ID_MENU_SUBMENI,        VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR1             CURSOR                  "cursor1.cur"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,2 @@
+D:\MFC\resource\Debug\resource.exe
+D:\MFC\resource\Debug\resource.pdb
