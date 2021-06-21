@@ -1,0 +1,4 @@
+﻿  Calculator1Dlg.cpp
+D:\MFC\Calculator1\Calculator1Dlg.cpp(188,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MFC\Calculator1\Calculator1Dlg.cpp(192,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Calculator1.vcxproj -> D:\MFC\Calculator1\Debug\Calculator1.exe
