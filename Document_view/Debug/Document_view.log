@@ -1,0 +1,11 @@
+﻿  Exercise.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\MFC\Document_view\resource.h(7,1): warning C4005: 'ID_FILE_OPEN': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxres.h(215): message : see previous definition of 'ID_FILE_OPEN'
+D:\MFC\Document_view\resource.h(11,1): warning C4005: 'ID_FILE_NEW': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxres.h(214): message : see previous definition of 'ID_FILE_NEW'
+D:\MFC\Document_view\resource.h(12,1): warning C4005: 'ID_FILE_PRINT_SETUP': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxres.h(220): message : see previous definition of 'ID_FILE_PRINT_SETUP'
+D:\MFC\Document_view\resource.h(13,1): warning C4005: 'ID_FILE_MRU_FILE1': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxres.h(230): message : see previous definition of 'ID_FILE_MRU_FILE1'
+  Document_view.vcxproj -> D:\MFC\Document_view\Debug\Document_view.exe

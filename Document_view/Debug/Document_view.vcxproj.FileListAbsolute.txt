@@ -1,0 +1,2 @@
+D:\MFC\Document_view\Debug\Document_view.exe
+D:\MFC\Document_view\Debug\Document_view.pdb
