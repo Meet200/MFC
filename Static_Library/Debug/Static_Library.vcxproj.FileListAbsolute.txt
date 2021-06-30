@@ -1,0 +1,2 @@
+D:\MFC\Static_Library\Debug\Static_Library.lib
+D:\MFC\Static_Library\Debug\Static_Library.pdb
