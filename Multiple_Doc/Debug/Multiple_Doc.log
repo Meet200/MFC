@@ -1,0 +1,10 @@
+﻿  dialog.cpp
+D:\Greeksoft work\BCG_Demo\Multiple_Doc\dialog.cpp(15,4): error C2614: 'dialog': illegal member initialization: 'CDialogEx' is not a base or member
+D:\Greeksoft work\BCG_Demo\Multiple_Doc\dialog.cpp(26,31): error C2248: 'CWnd::DoDataExchange': cannot access protected member declared in class 'CWnd'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(2919): message : see declaration of 'CWnd::DoDataExchange'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(2181): message : see declaration of 'CWnd'
+D:\Greeksoft work\BCG_Demo\Multiple_Doc\dialog.cpp(26,13): error C2352: 'CWnd::DoDataExchange': illegal call of non-static member function
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(2919): message : see declaration of 'CWnd::DoDataExchange'
+D:\Greeksoft work\BCG_Demo\Multiple_Doc\dialog.cpp(31,1): error C2248: 'CDialogEx::GetThisMessageMap': cannot access protected member declared in class 'CDialogEx'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxdialogex.h(86): message : see declaration of 'CDialogEx::GetThisMessageMap'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxdialogex.h(27): message : see declaration of 'CDialogEx'
